@@ -741,3 +741,17 @@ label.error {
 	margin-left:80px;
 	width:238px;
 }
+
+.habilidades>li>a>strong{
+	color: red;
+}
+.habilidades>li>a>i{
+	color: #ffc01f;
+}
+.habilidades>li>a>b{
+	color: blue;
+}
+.habilidades>li>a>em{
+	color: green;
+}
+
